@@ -8,3 +8,6 @@ sudo apt-get install csh
 license：
  *CLBjrG8mWS3.  
  FSmqNGpqSdKG2  
+
+
+ls sh* |parallel -j 130 bash -x 
